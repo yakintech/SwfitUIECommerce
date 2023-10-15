@@ -3,7 +3,7 @@
 //  SwiftUIECommerceSample
 //
 //  Created by Çağatay Yıldız on 8.10.2023.
-//
+//  JSON   -   STRUCT
 
 import Foundation
 

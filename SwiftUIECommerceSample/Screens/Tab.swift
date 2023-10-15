@@ -28,6 +28,11 @@ struct Tab: View {
                     .tabItem{
                         Label("Favorites", systemImage: "star")
                     }
+                
+                UsersMain()
+                    .tabItem{
+                        Label("Users", systemImage: "star")
+                    }
             }
         }
         
